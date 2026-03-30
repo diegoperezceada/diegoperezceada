@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?color=6C63FF&center=true&vCenter=true&width=450&lines=Building+scalable+systems;Cloud-native+applications;Clean+architecture;Full+stack+development" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diegoperezceada/diegoperezceada/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ### 🧠 About Me
